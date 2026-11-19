@@ -45,8 +45,12 @@ Smart-Home-Jarvis/
 ├── requirements.txt
 ├── .env.example
 ├── .gitignore
-└── README.md
-```
+├── README.md
+└── docs/
+    ├── architecture.md
+    └── screenshots/
+        ├── jarvis-test.png
+        └── home-assistant-dashboard.png
 
 ## Встановлення та запуск
 
